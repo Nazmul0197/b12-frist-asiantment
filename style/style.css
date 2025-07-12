@@ -22,8 +22,14 @@
      font-weight: bold;
     height: 40px;
     width: auto;
+    cursor: pointer;
 
    } 
+
+   .btn-primary:hover{
+    background-color: black;
+    
+   }
 
 .text-align{
     text-align: center;
@@ -273,9 +279,13 @@ table label{
     font-weight: bold;
     border-radius: 10px;
     border: none;
-  
+    cursor: pointer;
     
 }
+.touch-button:hover{
+    background-color: black;
+}
+
 
 /* ............footer styl........ */
 
