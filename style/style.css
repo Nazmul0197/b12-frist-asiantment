@@ -207,3 +207,113 @@ main{
     color: #B3B3B3;
     font-size: 16px;
 }
+
+
+/* ........touch comment style......... */
+.touch-bg{
+     background-color: #eef3fdfe;
+     border-radius: 10px;
+    
+}
+
+
+.touch-section-container{
+    display: flex;
+   
+    gap: 120px;
+    padding: 70px;
+}
+.touch-contant{
+    font-size: 97px;
+    font-weight: bold;
+    width: 900px;
+    padding: 100px 0;
+}
+
+table label{
+    display: block;
+}
+
+.touch-table-contant label{
+    font-size: 20px;
+    font-weight: 500;
+   
+    
+   
+   
+
+}
+
+.touch-table-contant input{
+    height: 65px;
+    width: 100%;
+     border: none;
+      border-radius: 10px;
+      padding-left: 20px;
+      
+      
+   
+}
+
+.touch-table-contant textarea{
+     height: 100px;
+    width: 100%;
+  border-radius: 10px;
+   border: none;
+   padding-left: 20px;
+   
+  
+}
+
+.touch-button{
+    background-color: #4E47FF;
+    width: 100%;
+    height: 60px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+  
+    
+}
+
+/* ............footer styl........ */
+
+footer{
+    padding: 0 455px 50px 455px ;
+}
+
+footer .footer-container{
+    /* padding: 105px 455px; */
+    text-align: center;
+}
+
+.footer-title h1{
+    font-size: 100px;
+    font-weight: 900px;
+    color: #4E47FF;
+    line-height: 1px;
+}
+
+.footer-description{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #8987A1;
+}
+
+
+/* ..........footer bar....... */
+
+.footer-bar ul a{
+    text-decoration: none;
+}
+
+.footer-bar ul li{
+    list-style: none;
+}
+
+.footer-bar ul {
+    display: flex;
+    justify-content: space-around;
+}
