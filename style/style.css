@@ -151,3 +151,59 @@ main{
     justify-content: space-around;
     padding-top: 40px;
 }
+
+/* ..........user profile style........... */
+
+.container-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 50px;
+}
+
+.user-feedback-card{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    /* box-shadow: 10px 10px 10px black; */
+}
+.user{
+   width: 265px;
+   height: 200px;
+   box-shadow: 10px 10px 10px #F2EDED;
+   padding: 24px;
+}
+
+.star-icon{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.users-title{
+    font-size: 20px;
+    font-weight:bold ;
+    color: #1E1E1E;
+}
+
+.about-description{
+     font-size: 16px;
+    font-weight: 250;
+
+}
+
+
+.user-profile{
+    display: flex;
+    gap: 6px;
+    padding-bottom:0px ;
+
+}
+.user-name{
+    color: #757575;
+    font-size: 16px;
+}
+
+.user-date{
+    color: #B3B3B3;
+    font-size: 16px;
+}
