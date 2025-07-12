@@ -106,7 +106,7 @@ main{
     font-weight: 400px;
     color: #252432;
 }
-.action-colum img{
+.action-colums img{
     border-radius: 48px;
 }
 
@@ -237,12 +237,11 @@ table label{
 .touch-table-contant label{
     font-size: 20px;
     font-weight: 500;
-   
     
    
-   
-
 }
+
+
 
 .touch-table-contant input{
     height: 65px;
@@ -260,7 +259,7 @@ table label{
     width: 100%;
   border-radius: 10px;
    border: none;
-   padding-left: 20px;
+   padding: 20px;
    
   
 }
@@ -317,3 +316,4 @@ footer .footer-container{
     display: flex;
     justify-content: space-around;
 }
+
